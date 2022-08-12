@@ -1,0 +1,36 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~E:\Study\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For PCB Document [PCBvoice.PcbDoc]|ReportField=TotalQuantity~35|ReportField=ReportTime~15:22:25|ReportField=ReportDate~2018/9/29|ReportField=ReportDateTime~2018/9/29 15:22:25|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PCBvoice.PcbDoc|ReportField=DataSourceFullPath~E:\Study\PCBvoice.PcbDoc
+TP||-12V|TP2|TP|1
+TP||+12V|TP2|TP|1
+Cap Pol2|Polarized Capacitor (Axial)|C1|CAPPR5-5x5|Cap Pol2|1
+Cap Pol2|Polarized Capacitor (Axial)|C2|CAPPR5-5x5|Cap Pol2|1
+Cap Pol2|Polarized Capacitor (Axial)|C3|CAPPR5-5x5|Cap Pol2|1
+Cap Pol2|Polarized Capacitor (Axial)|C4|CAPPR5-5x5|Cap Pol2|1
+Cap Pol2|Polarized Capacitor (Axial)|C5|CAPPR5-5x5|Cap Pol2|1
+TP||GND|TP2|TP|1
+uA741|OAP|IC1|DIP8|uA741|1
+TP||IN|TP2|TP|1
+TP||OUT|TP2|TP|1
+9014|NPN General Purpose Amplifier|Q1|TANS|2N3904|1
+9012|PNP Transistor|Q2|TANS|9012|1
+9014|NPN General Purpose Amplifier|Q3|TANS|2N3904|1
+8050|NPN General Purpose Amplifier|Q4|TANS|8050|1
+8550|PNP Transistor|Q5|TANS|8550|1
+2N3055|NPN General Purpose Amplifier|Q6|TO-3|2N3055|1
+2N3055|NPN General Purpose Amplifier|Q7|TO-3|2N3055|1
+Res2|Resistor|R1|AXIAL-0.4|Res2|1
+Res2|Resistor|R2|AXIAL-0.4|Res2|1
+Res2|Resistor|R3|AXIAL-0.4|Res2|1
+vari-Res||R4|vari-Res|vari-Res|1
+RPOT|Potentiometer|R5|RPOT|RPOT|1
+Res2|Resistor|R6|AXIAL-0.4|Res2|1
+Res2|Resistor|R7|AXIAL-0.4|Res2|1
+Res2|Resistor|R8|AXIAL-0.4|Res2|1
+Res2|Resistor|R9|AXIAL-0.4|Res2|1
+Res2|Resistor|R10|AXIAL-0.4|Res2|1
+Res2|Resistor|R11|AXIAL-0.4|Res2|1
+Res2|Resistor|R12|AXIAL-0.4|Res2|1
+Res2|Resistor|R13|AXIAL-0.4|Res2|1
+Res2|Resistor|R14|AXIAL-0.4|Res2|1
+Res2|Resistor|R15|AXIAL-0.4|Res2|1
+Res2|Resistor|R16|AXIAL-0.4|Res2|1
+Res2|Resistor|R17|AXIAL-0.4|Res2|1
